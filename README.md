@@ -1,6 +1,6 @@
 # Redi School
 
-Introduction dto Data Analytcs
+Introduction to Data Analytics.
 
 Introduction to Data Analytics is a 12 week course aiming to give the students and introduction to Data Analytics. The course has consisted of 36 confrontation hours, as well as assigments. self-studying and working independetly with datasets. Students have been introduced to
 
